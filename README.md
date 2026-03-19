@@ -19,3 +19,5 @@ Seaborn / Matplotlib
 Abdullah Ehab  
 Biotechnology Student – MSA University
 Level 3 
+## Disclaimer
+This project was developed as part of a learning exercise inspired by online coursework. It is intended for educational and demonstration purposes only.
